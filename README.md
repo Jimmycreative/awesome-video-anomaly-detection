@@ -106,10 +106,10 @@ CUHK Avenue, and ShanghaiTech datasets
 ### 2021
 1. <span id="12101">[MIST]</span> [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633) `CVPR 2021` [Project Page](https://kiwi-fung.win/2021/04/28/MIST/) UCF-Crime and ShanghaiTech
 2. <span id='12102'>[RTFM]</span> [Weakly-supervised Video Anomaly Detection with Contrastive Learning of
-Long and Short-range Temporal Features](https://arxiv.org/pdf/2101.10030.pdf) `ICCV 2021`[Code](https://github.com/tianyu0207/RTFM)
-3. <spa id='12103'>[STAD]</span>[Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video](https://arxiv.org/pdf/2108.03825) `IJCAI 2021`
-4. <span id='12104'>[WSAL]</span>[Localizing Anomalies From Weakly-Labeled Videos](https://arxiv.org/pdf/2008.08944)`TIP 2021` [Code](https://github.com/ktr-hubrt/WSAL)
-5. <span id='12105'>[CRFD]</span>[Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9369126/)`TIP 2021`
+Long and Short-range Temporal Features](https://arxiv.org/pdf/2101.10030.pdf) `ICCV 2021`[Code](https://github.com/tianyu0207/RTFM) ShanghaiTech, UCF-Crime, XD-Violence and UCSD-Ped
+3. <spa id='12103'>[STAD]</span>[Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video](https://arxiv.org/pdf/2108.03825) `IJCAI 2021` UCF
+4. <span id='12104'>[WSAL]</span>[Localizing Anomalies From Weakly-Labeled Videos](https://arxiv.org/pdf/2008.08944)`TIP 2021` [Code](https://github.com/ktr-hubrt/WSAL) e UCF-Crime and Traffic anomaly datasets.
+5. <span id='12105'>[CRFD]</span>[Learning Causal Temporal Relation and Feature Discrimination for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9369126/)`TIP 2021` UCF
 ### 2022
 1. <span id='12201'>[MSL]</span>[Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection](https://www.aaai.org/AAAI22Papers/AAAI-6637.LiS.pdf)`AAAI 2022` ShanghaiTech, UCF-Crime, and XD-Violence.
 
