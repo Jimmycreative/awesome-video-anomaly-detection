@@ -104,7 +104,7 @@ CUHK Avenue, and ShanghaiTech datasets
 3. <span id ='12003'>['XD-Violence']</span> [Not only Look, but also Listen: Learning Multimodal Violence Detection under Weak Supervision](https://arxiv.org/pdf/2007.04687.pdf) `ECCV 2020`
 4. <span id ='12004'>[CLAWS]</span> [CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf) `ECCV 2020`
 ### 2021
-1. <span id="12101">[MIST]</span> [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633) `CVPR 2021` [Project Page](https://kiwi-fung.win/2021/04/28/MIST/)
+1. <span id="12101">[MIST]</span> [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633) `CVPR 2021` [Project Page](https://kiwi-fung.win/2021/04/28/MIST/) UCF-Crime and ShanghaiTech
 2. <span id='12102'>[RTFM]</span> [Weakly-supervised Video Anomaly Detection with Contrastive Learning of
 Long and Short-range Temporal Features](https://arxiv.org/pdf/2101.10030.pdf) `ICCV 2021`[Code](https://github.com/tianyu0207/RTFM)
 3. <spa id='12103'>[STAD]</span>[Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video](https://arxiv.org/pdf/2108.03825) `IJCAI 2021`
